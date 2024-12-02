@@ -1,0 +1,62 @@
+
+#title {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+#features {
+ padding:100px;
+ padding-bottom: 60px;
+ padding-top: 50px;
+}
+
+#testimonial {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding-bottom: 0px;
+  margin-bottom: 0;
+}
+
+#testimonial > div >img {
+  border-radius: 60px;
+  margin: 5px;
+  margin-bottom: 2px;
+  padding: 10px;
+}
+
+
+
+#pricing {
+  padding-top: 50px;
+  padding: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#footer {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+
+  border: 1px solid white; 
+  padding: 0px 70px 0px 20px;
+  margin-bottom: 0px;
+  margin-top:50px;
+}
+
