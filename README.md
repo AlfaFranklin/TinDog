@@ -1,2 +1,8 @@
 # TinDog
-A tinder website for dogs developed using HTML,CSS and Bootstrap (only frontend).
+A tinder website made exclusively for Dogs.
+
+
+
+
+# Tools Used
+The main framework used in building the TinDog website is Bootstrap and its components like Carousel, Card, Buttons, Navbar etc. It also used HTML5, CSS3 and Google Fonts and Font Awesome.
